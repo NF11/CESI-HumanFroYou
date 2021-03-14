@@ -5,11 +5,11 @@
 
 Les étapes du projet :
 
-    1. Préparer les données",
-    2. Choisir le bon estimateur/algorithme pour nos problèmes",
-    3. Ajuster le modèle/algorithme et l'utiliser pour faire des prédictions sur nos données",
-    4. Évaluation d'un modèle",
-    5. Améliorer un modèle",
+    1. Préparer les données,
+    2. Choisir le bon estimateur/algorithme pour nos problèmes,
+    3. Test des algos,
+    4. Évaluation d'un modèle,
+    5. Améliorer un modèle,
     6. Sauvegarder et charger un modèle formé,
-    7. Mettre tout ça ensemble !"
+    7. Mettre tout ça ensemble 
 
